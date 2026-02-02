@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://multitui.com">
-    <img src="https://multitui.com/Multitui-icon-light.png" height="128">
+    <img src="https://multitui.com/Multitui-icon-light.png" height="160">
     <h1 align="center">Multitui</h1>
   </a>
 </p>
@@ -19,7 +19,7 @@ Sandbox claude code, codex, gemini, or any TUI on macOS without changing your wo
 ## Learn More
 
 - [Website](https://multitui.com)
-- [Example Apps](https://multitui.com)
+- [Example Apps](https://multitui.com/examples)
 - [Download for macOS](https://multitui.com/download)
 
 ## Support
